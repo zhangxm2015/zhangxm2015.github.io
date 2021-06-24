@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>Maven的依赖管理</title>
+    <link href="/2021/06/24/Maven%E7%9A%84%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86/"/>
+    <url>/2021/06/24/Maven%E7%9A%84%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86/</url>
+    
+    <content type="html"><![CDATA[<h3 id="dependencies"><a href="#dependencies" class="headerlink" title="dependencies"></a>dependencies</h3>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>maven,dependencies</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2021/05/13/hello-world/"/>
     <url>/2021/05/13/hello-world/</url>
